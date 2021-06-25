@@ -1,4 +1,4 @@
-Hello there! I am a yound developer learning python and rust. some of my current projects are pie-script (in python) and iron-script (in rust), both of them aiming to be extensive and easy (both to code in and code the language itself) programming laguages.
+Hello there! I am a young developer learning python and rust. some of my current projects are pie-script (in python) and iron-script (in rust), both of them aiming to be extensive and easy (both to code in and code the language itself) programming laguages.
 None of my projects are open at the moment so keep an eye out o.O
 
 
