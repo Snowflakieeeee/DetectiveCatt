@@ -1,5 +1,6 @@
-Hello there! I am a young developer learning python and C#. some of my current projects are pie-script (in python),aiming to be an asy (both to code in and code the language itself) programming laguage.
-None of my projects are open at the moment so keep an eye out o.O
+Hello there! I am a young developer, I know python, c# and a little bit of rust and c. Im making a programming language right now called nub#, for nubs :>
+Please give me project ideas I keep running out of them o.o
+For contacting me, my discord is Mochii#3636
 
 
 Cat out~
