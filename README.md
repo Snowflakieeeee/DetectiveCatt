@@ -1,6 +1,5 @@
-Hello there, I am mochi (well thats how I am known in Discord) 
-I am a pretty young developer that works in Python, C, C++, Little bit of JS and html 
-Gave up on rust tho. kinda. might try it out later
+Hello there, I am mochi/snowflake/ or however else you know me
+I am a pretty young developer that works in Python, C, C++, and trying my best to learn rust
 Currently have no idea what I am doing. Give me project ideas. (Duckie lang, nubscript, are few i worked on)
 
 
